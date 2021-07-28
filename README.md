@@ -1,1 +1,1 @@
-# Data-science-8 courseworks
+# Data8: Foundation of Data Science
